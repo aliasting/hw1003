@@ -33,6 +33,7 @@ li {
     margin: 25px;
     float: left;
     list-style: none;
+   
 }
 
 li:hover {
@@ -42,4 +43,10 @@ li:hover {
 
 h4 {
     text-align: center;
+}
+.b{
+    border: #ffffff 8px solid;
+    width: 270px;
+    margin-left: 5px;
+    border-radius: 15px;
 }
